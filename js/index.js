@@ -6,5 +6,5 @@ function fibonacci(n) {
     for (var i=1, i<=n, i++ ) {
         var n = n + 1;
     }
-    return fibonacci(n);
+    return n;
 };
